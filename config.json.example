@@ -1,0 +1,15 @@
+{
+    "mongo_host": "127.0.0.1",
+    "mongo_port": "27017",
+    "mongo_user": "root",
+    "mongo_pass": "password",
+    "mongo_db": "SaintsVerify",
+    "discord_prefix": "!",
+    "discord_token": "bot token",
+    "discord_activity_message": "A funny activity message, e.g. Keeping out CCHS Rats",
+    "email_domain": "Your email domain, to easily narrow out fake attempts: gmail.com",
+    "logs_channel": "Discord channel ID for bots logs to go",
+    "ux_bot_name": "Saints Verify",
+    "ux_contact_id": "Discord User ID for the bot maintainer",
+    "ux_contact_username": "Discord Username for bot maintainer: TGMstudios#2424"
+}
